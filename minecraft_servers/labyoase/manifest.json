@@ -1,11 +1,13 @@
 {
     "server_name": "labyoase",
-    "nice_name": "play.labyoase.net",
-    "direct_ip": "play.labyoase.net",
+    "nice_name": "labyoase.net",
+    "direct_ip": "labyoase.net",
     "server_wildcards": [
+        "%.labyoase.net",
         "%.play.labyoase.net",
     ],
     "social": {
+        "web": "https://labyoase.net",
         "twitter": "LabyOase",
         "tiktok": "labyoasenet",
         "discord": "https://discord.gg/labyoase",
